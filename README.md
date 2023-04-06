@@ -80,16 +80,44 @@ print('MAE = ',mae)
 
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
+```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-![Uploading Screenshot 2023-04-06 210258.png…]()
-![Screenshot 2023-04-06 210417](https://user-images.githubusercontent.com/128135323/230438329-52bd7d53-35c4-4512-8c12-dce1315b2cc3.png)
-![Scr![Screenshot 2023-04-06 210528](https://user-images.githubusercontent.com/128135323/230438403-05109a72-732f-42a1-a487-d41c27738214.png)
-eenshot 2![Uploading Screenshot 2023-04-06 210548.png…]()
-023-04-06 210459](https://user-images.githubusercontent.com/128135323/230438380-a1735eb4-6b75-4b50-aac0-f64e6b2e2b7b.png)
-![Screenshot 2023-04-06 210600](https://user-images.githubusercontent.com/128135323/230438455-04e36e33-817a-4659-a69a-f586b7b23051.png)
+## df.head():
 
+![hema 1](https://user-images.githubusercontent.com/128135323/230450884-dcde6045-7842-4c67-9eb7-88f87dea17f3.png)
+
+## df.tail():
+
+![hema 2](https://user-images.githubusercontent.com/128135323/230451206-1d45009f-304c-4945-91e5-7c88db283a6b.png)
+
+## Array of X:
+
+![229763055-9d7a86d9-0970-4a6e-951c-e8981a121fe9](https://user-images.githubusercontent.com/128135323/230451553-128bdddc-2391-4476-b760-bdffaea9ddbe.png)
+
+## Array of Y:
+
+![hema 3](https://user-images.githubusercontent.com/128135323/230451919-a8836d37-10ed-46c5-9c3f-64576ea9ad9a.png)
+
+## Y_Pred:
+
+![hema 4](https://user-images.githubusercontent.com/128135323/230452231-8c4dae2f-e8b8-4c52-b2e9-f8863775c440.png)
+
+## y_test:
+
+![hema 5](https://user-images.githubusercontent.com/128135323/230452861-1edf5ea8-39ff-4007-9142-2cc922388810.png)
+
+## Training set:
+
+![hema 6](https://user-images.githubusercontent.com/128135323/230453130-6265157b-f72b-4e50-a5d7-90c5871e25fa.png)
+
+## Test set:
+
+![hema 6](https://user-images.githubusercontent.com/128135323/230453567-237babfc-8c2f-4298-bbf7-cc29fa6d9a4e.png)
+
+## Values of MSE,MAE,RMSE:
+
+![hema 8](https://user-images.githubusercontent.com/128135323/230453859-e8238eca-7800-4513-911f-a01d088c8df0.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
